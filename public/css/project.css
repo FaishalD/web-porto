@@ -1,0 +1,27 @@
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateX(100%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0%);
+    }
+}
+
+.card {
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+    @media (max-width: 480px) {
+        
+    }
+}
+
+.custom-img {
+    object-fit: cover;
+    width: 100%; /* atau ukuran yang diinginkan */
+    height: auto;
+    max-height: 500px;
+}
