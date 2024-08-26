@@ -27,7 +27,7 @@ const Hero = () => {
               className="rounded-md px-3.5 py-2.5 text-sm font-semibold leading-6 text-dark hover:opacity-80"
               target="_blank"
             >
-              View on Github <span aria-hidden="true">&rarr;</span>
+              View on Github <span aria-hidden="true">→</span>
             </a>
           </div>
         </div>

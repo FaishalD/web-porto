@@ -5,10 +5,7 @@ const Project = () => {
   return (
     <>
       <head>
-        <link
-          rel="stylesheet"
-          href="\css\project.css"
-        ></link>
+        <link rel="stylesheet" href="\css\project.css"></link>
       </head>
       <div className="mb-10 container" id="project">
         <div className="text-center">
@@ -73,7 +70,7 @@ const Project = () => {
                   aria-hidden="true"
                   className="block transition-all group-hover:ms-0.5 rtl:rotate-180"
                 >
-                  &rarr;
+                  →
                 </span>
               </a>
             </div>
