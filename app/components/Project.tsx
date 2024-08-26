@@ -28,7 +28,7 @@ const Project = () => {
               <p className="text-dark opacity-80">as Technical Writer</p>
               <p className="mt-2 line-clamp-3 text-sm/relaxed text-dark opacity-60">
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </p>
               <a
                 href="#"
@@ -59,7 +59,7 @@ const Project = () => {
               <p className="text-dark opacity-80">as Front-End Engineer</p>
               <p className="mt-2 line-clamp-3 text-sm/relaxed text-dark opacity-60">
                 Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                the bulk of the card&apos;s content.
               </p>
               <a
                 href="#"
